@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Built-By: aluno
+Build-Jdk: 10.0.2
+Implementation-Title: teste
+Implementation-Version: 0.0.1-SNAPSHOT
+Implementation-Vendor-Id: br.ufc.crateus.teste
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-bo
+ ot-starter-parent/teste
+Created-By: Maven Integration for Eclipse
+
